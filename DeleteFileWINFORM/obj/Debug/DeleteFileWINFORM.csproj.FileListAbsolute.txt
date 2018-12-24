@@ -1,0 +1,63 @@
+C:\Users\pc\source\repos\DeleteFileWINFORM\DeleteFileWINFORM\bin\Debug\DeleteFileWINFORM.exe.config
+C:\Users\pc\source\repos\DeleteFileWINFORM\DeleteFileWINFORM\bin\Debug\DeleteFileWINFORM.exe
+C:\Users\pc\source\repos\DeleteFileWINFORM\DeleteFileWINFORM\bin\Debug\DeleteFileWINFORM.pdb
+C:\Users\pc\source\repos\DeleteFileWINFORM\DeleteFileWINFORM\obj\Debug\DeleteFileWINFORM.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\DeleteFileWINFORM\DeleteFileWINFORM\obj\Debug\DeleteFileWINFORM.Form1.resources
+C:\Users\pc\source\repos\DeleteFileWINFORM\DeleteFileWINFORM\obj\Debug\DeleteFileWINFORM.Properties.Resources.resources
+C:\Users\pc\source\repos\DeleteFileWINFORM\DeleteFileWINFORM\obj\Debug\DeleteFileWINFORM.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\DeleteFileWINFORM\DeleteFileWINFORM\obj\Debug\DeleteFileWINFORM.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\DeleteFileWINFORM\DeleteFileWINFORM\obj\Debug\DeleteFileWINFORM.exe
+C:\Users\pc\source\repos\DeleteFileWINFORM\DeleteFileWINFORM\obj\Debug\DeleteFileWINFORM.pdb
+C:\Users\pc\source\repos\DeleteFileWINFORM\DeleteFileWINFORM\bin\Debug\ClosedXML.dll
+C:\Users\pc\source\repos\DeleteFileWINFORM\DeleteFileWINFORM\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\pc\source\repos\DeleteFileWINFORM\DeleteFileWINFORM\bin\Debug\ExcelNumberFormat.dll
+C:\Users\pc\source\repos\DeleteFileWINFORM\DeleteFileWINFORM\bin\Debug\FastMember.dll
+C:\Users\pc\source\repos\DeleteFileWINFORM\DeleteFileWINFORM\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\pc\source\repos\DeleteFileWINFORM\DeleteFileWINFORM\bin\Debug\System.IO.Packaging.dll
+C:\Users\pc\source\repos\DeleteFileWINFORM\DeleteFileWINFORM\bin\Debug\ClosedXML.pdb
+C:\Users\pc\source\repos\DeleteFileWINFORM\DeleteFileWINFORM\bin\Debug\ClosedXML.xml
+C:\Users\pc\source\repos\DeleteFileWINFORM\DeleteFileWINFORM\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\pc\source\repos\DeleteFileWINFORM\DeleteFileWINFORM\bin\Debug\ExcelNumberFormat.xml
+C:\Users\pc\source\repos\DeleteFileWINFORM\DeleteFileWINFORM\obj\Debug\DeleteFileWINFORM.csproj.CopyComplete
+C:\Users\pc\Desktop\DeleteFileWINFORM\DeleteFileWINFORM\bin\Debug\DeleteFileWINFORM.exe.config
+C:\Users\pc\Desktop\DeleteFileWINFORM\DeleteFileWINFORM\bin\Debug\DeleteFileWINFORM.exe
+C:\Users\pc\Desktop\DeleteFileWINFORM\DeleteFileWINFORM\bin\Debug\DeleteFileWINFORM.pdb
+C:\Users\pc\Desktop\DeleteFileWINFORM\DeleteFileWINFORM\bin\Debug\ClosedXML.dll
+C:\Users\pc\Desktop\DeleteFileWINFORM\DeleteFileWINFORM\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\pc\Desktop\DeleteFileWINFORM\DeleteFileWINFORM\bin\Debug\ExcelNumberFormat.dll
+C:\Users\pc\Desktop\DeleteFileWINFORM\DeleteFileWINFORM\bin\Debug\FastMember.dll
+C:\Users\pc\Desktop\DeleteFileWINFORM\DeleteFileWINFORM\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\pc\Desktop\DeleteFileWINFORM\DeleteFileWINFORM\bin\Debug\System.IO.Packaging.dll
+C:\Users\pc\Desktop\DeleteFileWINFORM\DeleteFileWINFORM\bin\Debug\ClosedXML.pdb
+C:\Users\pc\Desktop\DeleteFileWINFORM\DeleteFileWINFORM\bin\Debug\ClosedXML.xml
+C:\Users\pc\Desktop\DeleteFileWINFORM\DeleteFileWINFORM\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\pc\Desktop\DeleteFileWINFORM\DeleteFileWINFORM\bin\Debug\ExcelNumberFormat.xml
+C:\Users\pc\Desktop\DeleteFileWINFORM\DeleteFileWINFORM\obj\Debug\DeleteFileWINFORM.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\DeleteFileWINFORM\DeleteFileWINFORM\obj\Debug\DeleteFileWINFORM.Form1.resources
+C:\Users\pc\Desktop\DeleteFileWINFORM\DeleteFileWINFORM\obj\Debug\DeleteFileWINFORM.Properties.Resources.resources
+C:\Users\pc\Desktop\DeleteFileWINFORM\DeleteFileWINFORM\obj\Debug\DeleteFileWINFORM.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\DeleteFileWINFORM\DeleteFileWINFORM\obj\Debug\DeleteFileWINFORM.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\DeleteFileWINFORM\DeleteFileWINFORM\obj\Debug\DeleteFileWINFORM.csproj.CopyComplete
+C:\Users\pc\Desktop\DeleteFileWINFORM\DeleteFileWINFORM\obj\Debug\DeleteFileWINFORM.exe
+C:\Users\pc\Desktop\DeleteFileWINFORM\DeleteFileWINFORM\obj\Debug\DeleteFileWINFORM.pdb
+C:\Users\pc\Desktop\New folder\DeleteFileWINFORM\DeleteFileWINFORM\bin\Debug\DeleteFileWINFORM.exe.config
+C:\Users\pc\Desktop\New folder\DeleteFileWINFORM\DeleteFileWINFORM\bin\Debug\DeleteFileWINFORM.exe
+C:\Users\pc\Desktop\New folder\DeleteFileWINFORM\DeleteFileWINFORM\bin\Debug\DeleteFileWINFORM.pdb
+C:\Users\pc\Desktop\New folder\DeleteFileWINFORM\DeleteFileWINFORM\bin\Debug\ClosedXML.dll
+C:\Users\pc\Desktop\New folder\DeleteFileWINFORM\DeleteFileWINFORM\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\pc\Desktop\New folder\DeleteFileWINFORM\DeleteFileWINFORM\bin\Debug\ExcelNumberFormat.dll
+C:\Users\pc\Desktop\New folder\DeleteFileWINFORM\DeleteFileWINFORM\bin\Debug\FastMember.dll
+C:\Users\pc\Desktop\New folder\DeleteFileWINFORM\DeleteFileWINFORM\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\pc\Desktop\New folder\DeleteFileWINFORM\DeleteFileWINFORM\bin\Debug\System.IO.Packaging.dll
+C:\Users\pc\Desktop\New folder\DeleteFileWINFORM\DeleteFileWINFORM\bin\Debug\ClosedXML.pdb
+C:\Users\pc\Desktop\New folder\DeleteFileWINFORM\DeleteFileWINFORM\bin\Debug\ClosedXML.xml
+C:\Users\pc\Desktop\New folder\DeleteFileWINFORM\DeleteFileWINFORM\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\pc\Desktop\New folder\DeleteFileWINFORM\DeleteFileWINFORM\bin\Debug\ExcelNumberFormat.xml
+C:\Users\pc\Desktop\New folder\DeleteFileWINFORM\DeleteFileWINFORM\obj\Debug\DeleteFileWINFORM.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\New folder\DeleteFileWINFORM\DeleteFileWINFORM\obj\Debug\DeleteFileWINFORM.Form1.resources
+C:\Users\pc\Desktop\New folder\DeleteFileWINFORM\DeleteFileWINFORM\obj\Debug\DeleteFileWINFORM.Properties.Resources.resources
+C:\Users\pc\Desktop\New folder\DeleteFileWINFORM\DeleteFileWINFORM\obj\Debug\DeleteFileWINFORM.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\New folder\DeleteFileWINFORM\DeleteFileWINFORM\obj\Debug\DeleteFileWINFORM.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\New folder\DeleteFileWINFORM\DeleteFileWINFORM\obj\Debug\DeleteFileWINFORM.csproj.CopyComplete
+C:\Users\pc\Desktop\New folder\DeleteFileWINFORM\DeleteFileWINFORM\obj\Debug\DeleteFileWINFORM.exe
+C:\Users\pc\Desktop\New folder\DeleteFileWINFORM\DeleteFileWINFORM\obj\Debug\DeleteFileWINFORM.pdb
